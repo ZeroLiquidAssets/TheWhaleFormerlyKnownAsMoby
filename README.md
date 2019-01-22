@@ -1,7 +1,7 @@
 # Competition Overview
 
-[Kaggle Competition Homepage](https://www.kaggle.com/c/humpback-whale-identification)
-[Data Page](https://www.kaggle.com/c/humpback-whale-identification/data)
+- [Kaggle Competition Homepage](https://www.kaggle.com/c/humpback-whale-identification)
+- [Data Page](https://www.kaggle.com/c/humpback-whale-identification/data)
 
 ## Challenge Overview
 
