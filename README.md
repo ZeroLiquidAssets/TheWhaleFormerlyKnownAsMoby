@@ -26,4 +26,6 @@ Assuming you're already [familiar with git](), have [registered for kaggle](), a
 pip install pipenv
 # Install dependencies/create virtual environment with pipenv:
 pipenv install
+# Activate your virtual environment!
+pipenv shell
 ```
