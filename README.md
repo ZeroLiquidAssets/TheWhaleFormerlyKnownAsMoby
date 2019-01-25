@@ -18,3 +18,12 @@ Assuming you're already [familiar with git](), have [registered for kaggle](), a
 
 1.  [Download the data](https://www.kaggle.com/c/humpback-whale-identification/data) and move it to data/raw/
 2.  [Take a look at some public kernels](https://www.kaggle.com/c/humpback-whale-identification/kernels)
+
+# Setup
+
+```
+# Install pipenv
+pip install pipenv
+# Install dependencies/create virtual environment with pipenv:
+pipenv install
+```
