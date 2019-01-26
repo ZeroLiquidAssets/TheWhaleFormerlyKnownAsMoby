@@ -7,6 +7,7 @@ We will build infrastructure that takes in a set of images and assigns up to 5 w
 
 - tensorflow
 - pytorch
+- opencv: Image manipulation library
 
 ## Pretrained Models
 
