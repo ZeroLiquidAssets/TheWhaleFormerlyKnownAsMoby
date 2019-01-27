@@ -1,8 +1,7 @@
 from pathlib import Path
 
 
-
-DATA_DIR = Path(__file__, "..", "data")
+DATA_DIR = Path(__file__).parent / ".." / "data"
 
 # Training 
 TRAIN = DATA_DIR / "raw" / "train.csv"
