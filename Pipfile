@@ -13,6 +13,9 @@ pillow = "*"
 logzero = "*"
 deal = {editable = true,path = "."}
 moby = {editable = true,path = "."}
+keras = "*"
+tensorflow = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.7"
