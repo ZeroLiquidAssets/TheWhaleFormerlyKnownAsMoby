@@ -12,6 +12,7 @@ jupyterlab = "*"
 pillow = "*"
 logzero = "*"
 deal = {editable = true,path = "."}
+moby = {editable = true,path = "."}
 
 [requires]
 python_version = "3.7"

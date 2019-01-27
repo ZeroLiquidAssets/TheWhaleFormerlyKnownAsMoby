@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6e4aaf4926c97d1bdc8d06d5290747826b88550d8edea23f1e5699209affdd0d"
+            "sha256": "bce31e92959f31a90a9c8f245d4922bdbccbaab4868a5fdad9861d9b9881ff9a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -197,6 +197,10 @@
                 "sha256:88a1051873018da288eee8538d476dffe1262495144b33ecb586c4ab266bb8d4"
             ],
             "version": "==0.8.4"
+        },
+        "moby": {
+            "editable": true,
+            "path": "."
         },
         "nbconvert": {
             "hashes": [
